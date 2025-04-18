@@ -17,7 +17,7 @@ This code implements various essential programming principles which guarantee it
 
     A better way to make the code more extensible would be through code refactoring that includes implementing additional classes as well as external modules.
     
-    **4. Composition > Inheritance**
+**4. Composition > Inheritance**
     Despite its absence of inheritance the code base would benefit from implementing composition in its design structure. The main program logic of your application should connect Staff and Item classes which contain separate attributes and responsibilities.
     A proposed restructuring solution includes developing class structures for Staff and Item elements to improve the handling of independent operations.
 
